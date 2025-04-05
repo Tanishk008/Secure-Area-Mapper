@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Secure Area Mapper with Blockchain</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet-draw/dist/leaflet.draw.css" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- 👤 User Input -->
+  <div id="user-input">
+    <label><strong>Your Name:</strong></label>
+    <input type="text" id="username" placeholder="Enter your name" />
+    <button id="submitBtn">Submit</button>
+    <button id="clearNameBtn">Clear</button>
+    <button id="zoomIn">➕ Zoom In</button>
+    <button id="zoomOut">➖ Zoom Out</button>
+  </div>
+
+  <!-- 🗺️ Map -->
+  <div id="map"></div>
+  <div id="area">Draw a polygon to calculate area</div>
+
+  <!-- ⛓️ Blockchain Log -->
+  <div id="blockchain-log">
+    <strong>🧾 Blockchain Log:</strong>
+    <div id="chain-content"></div>
+    <div id="total-area" class="total-area">Total Mapped Area: 0 km²</div>
+    <button onclick="downloadBlockchain()">📥</button>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet-draw/dist/leaflet.draw.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
