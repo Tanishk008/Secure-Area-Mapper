@@ -4,7 +4,7 @@ An intuitive web-based application to draw, save, and export secured map zones. 
 
 ---
 
-## Features
+## Features 
 
 - Interactive map canvas to define secured zones  
 - Freehand drawing with customizable color, stroke width  
