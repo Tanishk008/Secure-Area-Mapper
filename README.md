@@ -19,7 +19,7 @@ An intuitive web-based application to draw, save, and export secured map zones. 
 
 > [Click here to see it live](https://drive.google.com/file/d/177OLfSI2oGJ0DxifLMMlkJx8EnXZ3VqV/view?usp=sharing)
 
-## Technologies Used
+## Technologies Used : 
 
 - HTML5  
 - CSS  
