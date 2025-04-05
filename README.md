@@ -68,10 +68,10 @@ Challenges Faced :
 - Raamanjal Singh Gangwar ([GitHub Profile](https://github.com/Raamanjal))
 - Suryank Batham ([GitHub Profile](https://github.com/SuryankB))
 
-  License
+  License : 
 This project is licensed under the MIT License.
 
-Show Your Support
+Show Your Support : 
 If you like this project, star it and share it. Contributions are welcome.
   
 
