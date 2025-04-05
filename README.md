@@ -39,7 +39,7 @@ Although this is a front-end application, we simulate blockchain functionality b
 ---
 
 ## Project Structure
-secure-area-mapper/ │ ├── index.html # Main web page ├── style.css # Custom styles ├── script.js # JavaScript logic ├── assets/├── logo/ # App logo files └── README.md # You are here!
+secure-area-mapper/ │ ├── index.html # Main web page ├── style.css # Custom styles ├── script.js # JavaScript logic ├── assets/├── logo/└── README.md # You are here!
 
 
 ---
