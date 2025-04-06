@@ -17,7 +17,7 @@ An intuitive web-based application to draw, save, and export secured map zones. 
 
 ## Live Demo
 
-> [Click here to see it live](https://drive.google.com/file/d/177OLfSI2oGJ0DxifLMMlkJx8EnXZ3VqV/view?usp=sharing)
+> [Click here to see it live](https://youtu.be/4OEpil9mVmo?feature=shared)
 
 ## Technologies Used : 
 
